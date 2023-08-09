@@ -151,3 +151,12 @@ li a {
   justify-content: center;
   text-align: center;
 }
+
+.contact-section {
+  justify-content: center;
+  text-align: center;
+}
+
+.no-dots {
+  list-style: none;
+}
